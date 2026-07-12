@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Artifacts",
+    "canonicalKey": "artifact",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "./packages/protocol/artifacts"
+    ],
+    "sourceProjects": [
+      "enzyme-fork-smart-contracts",
+      "enzymeprotocol"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged",
+      "financial-services/erol-enzyme-aave-fork-protocol-more-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "enzymeprotocol",
+        "path": "hardhat.config.ts:51",
+        "route": "./packages/protocol/artifacts",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "enzymeprotocol",
+        "path": "hardhat.config.ts:54",
+        "route": "./packages/protocol/artifacts",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "enzyme-fork-smart-contracts",
+        "path": "hardhat.config.ts:31",
+        "route": "./packages/protocol/artifacts",
+        "originApp": "financial-services/erol-enzyme-aave-fork-protocol-more-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "enzyme-fork-smart-contracts",
+        "path": "hardhat.config.ts:34",
+        "route": "./packages/protocol/artifacts",
+        "originApp": "financial-services/erol-enzyme-aave-fork-protocol-more-merged"
+      }
+    ]
+  },
+  {
+    "name": "Codegen",
+    "canonicalKey": "codegen",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "./packages/protocol/src/codegen"
+    ],
+    "sourceProjects": [
+      "enzyme-fork-smart-contracts",
+      "enzymeprotocol"
+    ],
+    "consolidatedFromApps": [
+      "financial-services/aave-protocol-v2-merged",
+      "financial-services/erol-enzyme-aave-fork-protocol-more-merged"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "enzymeprotocol",
+        "path": "hardhat.config.ts:100",
+        "route": "./packages/protocol/src/codegen",
+        "originApp": "financial-services/aave-protocol-v2-merged"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "enzyme-fork-smart-contracts",
+        "path": "hardhat.config.ts:79",
+        "route": "./packages/protocol/src/codegen",
+        "originApp": "financial-services/erol-enzyme-aave-fork-protocol-more-merged"
+      }
+    ]
+  }
+]

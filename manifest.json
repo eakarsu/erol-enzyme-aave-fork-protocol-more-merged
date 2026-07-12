@@ -1,0 +1,30 @@
+{
+  "id": "erol-enzyme-aave-fork-protocol-more-merged",
+  "title": "Erol Enzyme Aave Fork Protocol More App",
+  "industry": "Financial Services",
+  "industryId": "financial-services",
+  "specialization": "Erol Enzyme Aave Fork Protocol More",
+  "sourcePlatformGroup": "crypto-defi-platform",
+  "sources": [
+    "enzyme-fork-smart-contracts",
+    "enzyme-fund-create",
+    "erol-enzyme-aave-fork-protocol-more",
+    "smart-contract-work"
+  ],
+  "featureCount": 2,
+  "candidateFeatureCount": 2,
+  "eliminatedSimilarFeatures": 0,
+  "evidenceCount": 6,
+  "aiPageCount": 0,
+  "sourceAIPageCount": 0,
+  "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
+  "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
+  "database": "database.sqlite",
+  "databaseSeed": {
+    "seededProjects": 0,
+    "seededTables": 0,
+    "seededRows": 0
+  },
+  "visibleFeatureCount": 2,
+  "featureVisibilityMode": "source-backed-fallback"
+}
