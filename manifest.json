@@ -26,5 +26,5 @@
     "seededRows": 0
   },
   "visibleFeatureCount": 2,
-  "featureVisibilityMode": "source-backed-fallback"
+  "featureVisibilityMode": "all-source-backed"
 }
