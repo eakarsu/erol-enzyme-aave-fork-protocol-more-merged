@@ -26,5 +26,11 @@
     "seededRows": 0
   },
   "visibleFeatureCount": 2,
-  "featureVisibilityMode": "all-source-backed"
+  "featureVisibilityMode": "all-source-backed",
+  "featureSurfaces": {
+    "aiFeatures": 0,
+    "generatedAIForms": 0,
+    "tableFeatures": 2,
+    "operationRows": 30
+  }
 }
